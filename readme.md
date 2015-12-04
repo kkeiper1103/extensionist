@@ -10,3 +10,7 @@ for showing all available extensions for PHP.
 2. Develop Composer Plugin to use composer for managing extensions as well (if possible)
 3. Develop some sort of Build Automation where you choose the settings and the server compiles the *.dll's or *.so's
 4. Implement Solr or Custom Search to show registered extensions
+
+### Misc
+
+Color Scheme: http://paletton.com/#uid=33p0M0k++s5I5++++Gc+5lsY6cT
